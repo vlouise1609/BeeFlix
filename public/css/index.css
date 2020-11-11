@@ -1,0 +1,159 @@
+.header-container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    height: 70px;
+    width: 100%;
+    background-color: rgb(14, 55, 88);
+    align-items: flex-start;
+}
+
+/*b99e65  */
+.header-container-1{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+
+.header-txt{
+    font-size: 25px;
+    color: burlywood;
+}
+
+.nav-link{
+    color: burlywood;
+    font-size: 15px;
+}
+
+.nav-link.active{
+    background-color:rgb(52, 43, 24);
+}
+/* home button :  */
+
+.btn{
+    margin: 10px;
+    color: #2c6fa5;
+}
+
+.card{
+    margin-right: 20px;
+}
+
+.card.mb-3{
+    margin: 10px;
+    width: 700px;
+    align-items: center;
+}
+
+.card-body{
+    height: 130%;
+    width: 100%;
+    padding: 0px;
+    background-color: rgb(14, 55, 88);
+}
+
+.card-title{
+    font-size: 16px;
+    color: burlywood;
+}
+
+.card-title-detail{
+    font-size: 30px;
+    color: burlywood;
+}
+
+.card-text{
+    color: burlywood;
+    font-size: 17px;
+}
+
+.card-text-1{
+    color: burlywood;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.card-text-2{
+    color: burlywood;
+    font-size: 17px;
+    padding-right: 5px;
+
+}
+
+.card-img-top{
+    width: 230px;
+    height: 100px;
+}
+
+.card-img-top-1{
+    width: 100%;
+    height: 100;
+    align-self: center;
+}
+
+.card-justify{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.categories-container{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.categories-container-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.categories-container-txt{
+    font-size: 20px;
+}
+
+.categories-detail-txt{
+    display: flex;
+    flex-direction: row;
+}
+
+.episode-txt{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.genre-text{
+    padding-right: 5px;
+    font-size: 17px;
+    color: burlywood;
+}
+
+.table{
+    margin: 10px;
+    width: 30px;
+}
+
+.table .thead-dark-1 th {
+    color: burlywood;
+    font-size: 16px;
+    background-color:  rgb(14, 55, 88);
+    border-color: #454d55;
+}
+
+.table-title-txt{
+    font-size: 20px;
+}
+
+.img-star{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 7px;
+    margin-left: 5px;
+}
+
+.rating-card{
+    display: flex;
+    flex-direction: row;
+}
+
