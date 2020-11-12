@@ -2,7 +2,7 @@
     <div class="header-container-1">
         <h2 class="header-txt">BeeFlix</h2>
     </div>
-    <div class="header-container-1">
+    <div class="header-container-2">
         <ul class="nav nav-pills">
              <li class="nav-item">
               <a class="nav-link" href="{{url('/home')}}">See All Movies</a>

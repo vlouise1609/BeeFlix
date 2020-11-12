@@ -30,7 +30,7 @@
     
 
     {{-- episode --}}
-    <div>
+    <div style="width: 45%" style="margin-right: 10px">
       <div>
         <span class="episode-txt">Episode List</span>
       </div>
