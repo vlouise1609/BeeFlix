@@ -292,6 +292,40 @@ class EpisodeDramaTableSeeder extends Seeder
                 'episode_title' => 'Sinister Secret'
             ), 
 
+
+            //tambahan - drama - 13 - Kingdom 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 1', 
+                'episode_title' => 'The Opening'
+            ), 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 2', 
+                'episode_title' => 'Passing 5.38km'
+            ), 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 3', 
+                'episode_title' => 'Opening the basement'
+            ), 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 4', 
+                'episode_title' => 'Acting weird'
+            ), 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 5', 
+                'episode_title' => 'Heading to the fishing site'
+            ), 
+            array(
+                'movie_id' => '13', 
+                'episode_number' => 'Episode 6', 
+                'episode_title' => 'A fight on their hands'
+            ), 
+
+
         ));
     }
 }

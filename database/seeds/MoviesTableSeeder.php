@@ -47,8 +47,7 @@ class MoviesTableSeeder extends Seeder
                                         (Ju Ji-hoon), who stumbles across a life-threatening political conspiracy while investigating 
                                         the spread of a mysterious plague.', 
                 'rating' => '5'
-            ), 
-
+            ),
 
             //kids
             array(
@@ -119,6 +118,36 @@ class MoviesTableSeeder extends Seeder
                 'rating' => '5'
             ), 
 
+            // tambahan
+
+            array(
+                'genre_id' => '1', 
+                'movie_title' => 'The School Nurse Files', 
+                'movie_img' => 'schoolnurse.jpg',
+                'movie_description' => 'Ahn Eun Young, a school nurse who has powers that allow her to chase ghosts, is appointed to a 
+                                        new high school where mysterious incidents take place', 
+                'rating' => '4'
+            ), 
+
+            array(
+                'genre_id' => '2', 
+                'movie_title' => 'Dora The Explorer', 
+                'movie_img' => 'dora.jpg',
+                'movie_description' => 'Dora, a teenage explorer, leads her friends on an adventure to save her parents and 
+                                        solve the mystery behind a lost city of gold.', 
+                'rating' => '3'
+            ), 
+
+            array(
+                'genre_id' => '3', 
+                'movie_title' => 'Chilling Adventures of Sabrina', 
+                'movie_img' => 'sabrina.jpg',
+                'movie_description' => 'As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. 
+                                        Based on the Archie comic.', 
+                'rating' => '4'
+            ),
+            
+            
 
 
         ));

@@ -218,7 +218,39 @@ class EpisodeTVShowTableSeeder extends Seeder
                 'movie_id' => '12', 
                 'episode_number' => 'Episode 13', 
                 'episode_title' => 'Take Me Back to Hell'
-            )
+            ),
+
+            //tvshow - 15 - sabrina
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 1', 
+                'episode_title' => 'October Country'
+            ), 
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 2', 
+                'episode_title' => 'The Dark Baptism'
+            ), 
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 3', 
+                'episode_title' => 'The Trial of Sabrina Spellman'
+            ), 
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 4', 
+                'episode_title' => 'Manly Whatnots'
+            ), 
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 5', 
+                'episode_title' => 'Witch Academy'
+            ), 
+            array(
+                'movie_id' => '15', 
+                'episode_number' => 'Episode 6', 
+                'episode_title' => 'A Midwinter Tale'
+            ), 
         ));
     }
 }

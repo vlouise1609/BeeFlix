@@ -226,8 +226,39 @@ class EpisodeKidsTableSeeder extends Seeder
                 'movie_id' => '8', 
                 'episode_number' => 'Episode 9', 
                 'episode_title' => 'Dragon Flower'
-            )
+            ),
 
+            //tambahan - kids - 14 - dora
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 1', 
+                'episode_title' => 'The Legend of the Big Red Chicken'
+            ), 
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 2', 
+                'episode_title' => 'Lost and Found'
+            ), 
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 3', 
+                'episode_title' => 'Hic-Boom-Ohhh'
+            ), 
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 4', 
+                'episode_title' => 'Beaches'
+            ), 
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 5', 
+                'episode_title' => 'Choo Choo'
+            ), 
+            array(
+                'movie_id' => '14', 
+                'episode_number' => 'Episode 6', 
+                'episode_title' => 'Three Lil Piggies'
+            ), 
 
         ));
     }
